@@ -1,0 +1,22 @@
+{
+  "name": "mempipe",
+  "displayName": "Mempipe",
+  "version": "1.0.0",
+  "description": "Search, read and cite your Mempipe documents, and add files and notes from the chat.",
+  "author": {
+    "name": "Mempipe",
+    "url": "https://www.mempipe.ai"
+  },
+  "homepage": "https://www.mempipe.ai",
+  "keywords": [
+    "documents",
+    "research",
+    "citations",
+    "pdf",
+    "notes"
+  ],
+  "icon": "./assets/logo.svg",
+  "supportUrl": "https://www.mempipe.ai/help/",
+  "privacyPolicyUrl": "https://www.mempipe.ai/privacy/",
+  "termsOfServiceUrl": "https://www.mempipe.ai/terms/"
+}

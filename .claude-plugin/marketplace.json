@@ -1,0 +1,15 @@
+{
+  "name": "mempipe",
+  "description": "Mempipe plugins for Claude Code.",
+  "owner": {
+    "name": "Mempipe",
+    "url": "https://www.mempipe.ai"
+  },
+  "plugins": [
+    {
+      "name": "mempipe",
+      "source": "./plugins/mempipe",
+      "description": "Search, read and cite your Mempipe documents, and add files and notes from the chat."
+    }
+  ]
+}
