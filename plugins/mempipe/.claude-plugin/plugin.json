@@ -8,6 +8,7 @@
     "url": "https://www.mempipe.ai"
   },
   "homepage": "https://www.mempipe.ai",
+  "license": "Apache-2.0",
   "keywords": [
     "documents",
     "research",

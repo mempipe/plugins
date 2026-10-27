@@ -34,6 +34,10 @@ You need a Mempipe account. Sign up at [mempipe.ai](https://www.mempipe.ai).
 - To connect a single Space instead of your whole account, see [Connect Claude Code to Mempipe](https://www.mempipe.ai/help/agents/connect-claude-code/).
 - PDFs and CSV files are added in the [Mempipe web app](https://app.mempipe.ai).
 
+## License
+
+The files in this repository are licensed under the [Apache License 2.0](LICENSE). The license grants no rights to the Mempipe name or logo. Using Mempipe through these plugins is governed by Mempipe's [terms](https://www.mempipe.ai/terms/).
+
 ## Support
 
 Email [hello@mempipe.ai](mailto:hello@mempipe.ai). See also the [help center](https://www.mempipe.ai/help/), [privacy policy](https://www.mempipe.ai/privacy/) and [terms](https://www.mempipe.ai/terms/).
